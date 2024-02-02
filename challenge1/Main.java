@@ -1,4 +1,4 @@
-package javaOOPELearning;
+package javaOOPELearning.challenge1;
 
 import java.util.Scanner;
 
