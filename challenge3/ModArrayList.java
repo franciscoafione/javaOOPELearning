@@ -1,4 +1,4 @@
-package javaOOPELearning.challenge3;
+package challenge3;
 
 import java.util.ArrayList;
 

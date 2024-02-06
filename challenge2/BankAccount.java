@@ -1,4 +1,4 @@
-package javaOOPELearning.challenge2;
+package challenge2;
 
 public class BankAccount {
     private String owner;

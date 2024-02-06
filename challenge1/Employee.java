@@ -1,4 +1,4 @@
-package javaOOPELearning.challenge1;
+package challenge1;
 
 public class Employee {
     private String name;

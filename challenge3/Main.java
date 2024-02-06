@@ -1,4 +1,4 @@
-package javaOOPELearning.challenge3;
+package challenge3;
 
 public class Main {
     public static void main(String[] args) {
